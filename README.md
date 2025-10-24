@@ -42,7 +42,7 @@ By contributing, you agree that your contributions will be released under the sa
 
 - 🧠 Color histogram comparison  
 - 🎞️ Slideshow creation with smooth transitions  
-- 🎬 Video export using MoviePy  
+- 🎬 Video export using OpenCv Module (also can generate using `MoviePy`)
 - 🧩 Modular Python code for easy extension  
 
 ---
