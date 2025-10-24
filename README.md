@@ -18,7 +18,7 @@ The system includes:
 To run this project, you’ll need:
 
 - 🐍 Python 3.8 or newer  
-- 📦 `opencv-python`, `numpy`, `moviepy`, `matplotlib`  
+- 📦 `opencv-python`, `numpy`, `tkinter`  
 - 🖼️ A folder of input images (JPG/PNG)
 
 ---
