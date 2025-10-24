@@ -26,6 +26,7 @@ To run this project, you’ll need:
 ## 🖼️ Preview
 
 Here’s a preview of the slideshow generation Result:
+
 ![Media1](https://github.com/user-attachments/assets/55b0fdbf-4333-4f0c-abed-174f05bf3a08)
 
 
